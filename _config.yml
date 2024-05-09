@@ -12,21 +12,21 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "hercules" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-GB"
-title                    : "MultiFlow Dynamics"
+title                    : "HERCULES"
 title_separator          : "-"
-subtitle                 : Uniting Theory and Practice in Computational Fluid Dynamics
-name                     : "Jaimy Gebbeken"
+subtitle                 : ""
+name                     : "Hercules project"
 description              : "My personal portfolio, showcasing my interest and experience in CFD engineering."
 url                      : "https://jeeemieee.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "Jeeemieee/Jeeemieee.github.io"
-teaser                   : "/assets/images/tikz/twoPhaseArbitraryFluidElement.png"
-logo                     : "/assets/images/default/logo.png" 
-masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
+repository               : "HorizonHercules/HorizonHercules.github.io"
+teaser                   : "/assets/images/default/hercules_logo.png"
+logo                     : "/assets/images/default/hercules_logo_full.png" 
+masthead_title           : ""
 breadcrumbs              : true
 words_per_minute         : 200
 comments:

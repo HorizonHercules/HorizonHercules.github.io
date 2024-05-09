@@ -1,12 +1,4 @@
 # main links
 main:
   - title: "POSTS"
-    url: https://jeeemieee.github.io/posts/
-  - title: "CUSTOM SOLVERS"
-    url: https://jeeemieee.github.io/customSolvers/
-  - title: "OPENFOAM"
-    url: https://jeeemieee.github.io/openFoam/
-  - title: "ANSYS"
-    url: https://jeeemieee.github.io/ansys/
-  - title: "MISC"
-    url: https://jeeemieee.github.io/misc/
+    url: /posts/

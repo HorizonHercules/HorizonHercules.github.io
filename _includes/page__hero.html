@@ -11,8 +11,6 @@
   {% endif %}
 {% endif %}
 
-<p> test: {{ overlay_img_path }} </p>
-
 {% if page.header.overlay_filter contains "gradient" %}
   {% capture overlay_filter %}{{ page.header.overlay_filter }}{% endcapture %}
 {% elsif page.header.overlay_filter contains "rgba" %}

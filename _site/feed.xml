@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-05-09T14:31:31+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">HERCULES</title><subtitle>My personal portfolio, showcasing my interest and experience in CFD engineering.</subtitle><author><name>Jaimy Gebbeken</name></author><entry><title type="html">Venturing into the Flow: The Shear Brilliance of Computational Fluid Dynamics</title><link href="http://localhost:4000/venturing-into-the-flow/" rel="alternate" type="text/html" title="Venturing into the Flow: The Shear Brilliance of Computational Fluid Dynamics" /><published>2024-04-14T00:00:00+02:00</published><updated>2024-04-14T00:00:00+02:00</updated><id>http://localhost:4000/venturing-into-the-flow</id><content type="html" xml:base="http://localhost:4000/venturing-into-the-flow/"><![CDATA[<h1 id="test">Test</h1>
+<h2 id="test1">Test1</h2>
+<h3 id="test2">Test2</h3>
+<p>Test3</p>
+
+<h2 id="test4">Test4</h2>]]></content><author><name>Jaimy Gebbeken</name></author><summary type="html"><![CDATA[Test Test1 Test2 Test3]]></summary></entry></feed>
