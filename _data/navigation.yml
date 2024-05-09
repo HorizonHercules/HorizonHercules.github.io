@@ -1,4 +1,8 @@
 # main links
 main:
+  - title: "HOME"
+    url: /
   - title: "POSTS"
     url: /posts/
+  - title: "SHOWCASE"
+    url: /showcase/

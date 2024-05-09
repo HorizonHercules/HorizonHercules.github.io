@@ -3,13 +3,13 @@
    ========================================================================== */
 
 /* Colors */
-$text-color: #000 !default;
+$hercules-blue: #17223e;
+$hercules-red: #e63327;
+$text-color: $hercules-blue !default;
 $muted-text-color: $text-color !default;
 $primary-color: #ff0000 !default;
 $border-color: mix(#fff, $text-color, 75%) !default;
 $footer-background-color: #000 !default;
-$hercules-blue: #17223e;
-$hercules-red: #e63327;
 $link-color: #0000ff !default;
 $masthead-link-color: $text-color !default;
 $masthead-link-color-hover: $text-color !default;
