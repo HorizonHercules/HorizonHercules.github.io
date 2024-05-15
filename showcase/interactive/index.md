@@ -26,7 +26,15 @@ bcc:
     excerpt: "Model-viewer showcase using a body-centered cube lattice porous domain."
     url: "/showcase/interactive/bcc/"
     btn_class: "btn--primary"
-    btn_label: "Learn more"  
+    btn_label: "Learn more"
+twoLayerInternalInsulationConcept_V1.1:
+  - image_path: /showcase/interactive/twoLayerInternalInsulationConcept_v1.1/Two-Layer_InternalInsulationConcept_v1.1.svg
+    alt: ""
+    title: "Two-Layer Internal Insulation Concept V1.1"
+    excerpt: ""
+    url: "/showcase/interactive/twoLayerInternalInsulationConcept_V1.1/"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"
 ---
 
 Sample introduction text
@@ -36,3 +44,5 @@ Sample introduction text
 {% include feature_row id="engine" type="left" %}
 
 {% include feature_row id="bcc" type="left" %}
+
+{% include feature_row id="twoLayerInternalInsulationConcept_V1.1" type="left" %}
