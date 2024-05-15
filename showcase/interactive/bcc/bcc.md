@@ -17,6 +17,7 @@ header:
         height: 600px;
         border: 5px solid black;
         border-radius: 20px;
+        background-color: #792a33;
     }
 </style>
 

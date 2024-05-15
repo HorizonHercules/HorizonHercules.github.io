@@ -22,4 +22,7 @@
 <url>
 <loc>http://localhost:4000/posts/</loc>
 </url>
+<url>
+<loc>http://localhost:4000/showcase/interactive/twoLayerInternalInsulationConcept_V1.1/</loc>
+</url>
 </urlset>
