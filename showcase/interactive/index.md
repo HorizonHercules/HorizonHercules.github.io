@@ -11,17 +11,28 @@ related: false
 header:
    overlay_image: /assets/images/default/hercules_logo_full.png
 feature_row:
-interactive:
-  - image_path: /showcase/interactive/boombox/boombox.png
+engine:
+  - image_path: /showcase/interactive/engine/engine.png
     alt: ""
-    title: "Boom Box"
-    excerpt: "An examplar model-viewer showcase using a simple boombox model."
-    url: "/showcase/interactive/boombox/"
+    title: "Simple 2 Cylinder Engine"
+    excerpt: "An examplar model-viewer showcase using a simple engine model."
+    url: "/showcase/interactive/engine/"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"
+bcc:
+  - image_path: /showcase/interactive/bcc/bcc.png
+    alt: ""
+    title: "Body-Centered Cube Lattice Domain"
+    excerpt: "Model-viewer showcase using a body-centered cube lattice porous domain."
+    url: "/showcase/interactive/bcc/"
     btn_class: "btn--primary"
     btn_label: "Learn more"  
 ---
-showcases
+
+Sample introduction text
 
 {% include feature_row id="intro" type="center" %}
 
-{% include feature_row id="interactive" type="left" %}
+{% include feature_row id="engine" type="left" %}
+
+{% include feature_row id="bcc" type="left" %}

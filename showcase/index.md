@@ -20,7 +20,8 @@ interactive:
     btn_class: "btn--primary"
     btn_label: "Learn more"  
 ---
-showcases
+
+Sample introduction text
 
 {% include feature_row id="intro" type="center" %}
 
